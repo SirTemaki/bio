@@ -9,6 +9,8 @@
 html {
     height: 100vh;
     font-size: 14px;
+    background: linear-gradient(to bottom, red, black);
+    background-color:black;
 }
 
 body { 
